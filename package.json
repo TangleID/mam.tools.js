@@ -36,7 +36,7 @@
   "dependencies": {
     "debug": "^3.1.0",
     "iota.lib.js": "^0.4.7",
-    "mam.client.js": "git+ssh://git@github.com/iotaledger/mam.client.js.git",
+    "mam.client.js": "git+https://git@github.com/iotaledger/mam.client.js.git",
     "minimist": "^1.2.0",
     "supports-color": "^5.4.0",
     "winston": "^3.0.0"
